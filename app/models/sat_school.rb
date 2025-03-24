@@ -1,0 +1,2 @@
+class SatSchool < ApplicationRecord
+end
