@@ -1,0 +1,2 @@
+module SatSchoolsHelper
+end
